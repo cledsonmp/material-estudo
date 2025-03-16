@@ -1,6 +1,9 @@
 # material-estudo
 Não venda ou tire qualquer tipo de lucro com o material que você fizer o download nesse espaço, pois é apenas para fim educacional.
 
+#LOGICA DE PROGRAMACAO/CURSO DE ALGORITMOS DO GUANABARA
+https://www.youtube.com/watch?v=8mei6uVttho
+
 #JAVA SCRIPT
 https://eloquentjavascript.net/Eloquent_JavaScript.pdf
 
